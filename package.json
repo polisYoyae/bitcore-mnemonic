@@ -41,7 +41,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "bitcore-lib-polis": "polispay/bitcore-lib-polis",
+    "bitcore-lib-polis": "github:polispay/bitcore-lib-polis",
     "unorm": "^1.3.3"
   }
 }
