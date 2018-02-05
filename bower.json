@@ -1,0 +1,30 @@
+{
+  "name": "bitcore-mnemonic-polis",
+  "main": "./bitcore-mnemonic-polis.min.js",
+  "version": "1.1.4",
+  "homepage": "https://github.com/polispay/bitcore-mnemonic-polis",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "BIP39 - Mnemonics implemented for Bitcore.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "polis",
+    "bitcore",
+    "satoshi",
+    "mnemonic"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "index.js",
+    "gulpfile.js",
+    "README.md",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
