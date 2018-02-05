@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-mnemonic-polis",
+  "name": "bitcore-mnemonic",
   "version": "1.5.0",
   "description": "BIP39 Mnemonics implemented for Bitcore.",
   "author": "BitPay <dev@bitpay.com>",
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/polispay/bitcore-mnemonic-polis.git"
+    "url": "https://github.com/polispay/bitcore-mnemonic.git"
   },
   "keywords": [
     "polis",
